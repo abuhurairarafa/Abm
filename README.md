@@ -24,8 +24,8 @@ I hope you understand my bad language 3:)
 ➤ pip2 install mechanize && pip2 install requests 
 ➤ pip2 install requests bs4
 ➤ rm -rf Blueforce--Abm
-➤ git clone https://github.com/Tech-abm/Blueforce--Abm
-➤ cd Blueforce--Abm
+➤ git clone https://github.com/abuhurairarafa/Abm
+➤ cd Abm
 ➤ python2 ab.sys
 ```
 ## Tool User And Pass
