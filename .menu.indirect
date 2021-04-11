@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+#coding=utf-8
+import sys, time, threading
+from tqdm import tqdm
+
+with tqdm(total=100, desc="Progress", bar_format="{l_bar}{bar} [ time left: {remaining} ]") as pbar:
+    for i in range(100):
+        time.sleep(0.02)
+        pbar.update(1)
+
